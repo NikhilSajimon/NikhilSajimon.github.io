@@ -10,7 +10,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
-google_analytics: UA-XXXXXXXXX-X # optional
+google_analytics: G-GF67ZBK7J1
 
 defaults:
   - scope:
