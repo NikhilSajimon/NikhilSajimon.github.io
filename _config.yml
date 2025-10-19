@@ -1,0 +1,21 @@
+title: "Nikhil Sajimon"
+description: "Portfolio of Data Engineering & Analytics Projects"
+baseurl: "" # for GitHub Pages
+url: "https://nikhilsajimon.github.io"
+theme: minima
+
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+google_analytics: UA-XXXXXXXXX-X # optional
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Nikhil Sajimon"
