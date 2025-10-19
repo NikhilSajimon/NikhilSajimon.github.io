@@ -1,5 +1,5 @@
 title: "Nikhil Sajimon"
-description: "Portfolio of Data Science & Analytics Projects"
+description: "Portfolio of Data Science, ML, and Analytics Projects"
 baseurl: "" # for GitHub Pages
 url: "https://nikhilsajimon.github.io"
 remote_theme: cotes2020/jekyll-theme-chirpy
@@ -17,5 +17,5 @@ defaults:
       path: ""
       type: "posts"
     values:
-      layout: "post"
+      layout: post
       author: "Nikhil Sajimon"
