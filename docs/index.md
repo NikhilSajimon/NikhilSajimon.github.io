@@ -5,4 +5,5 @@ title: Welcome
 
 # Welcome to My Portfolio
 
-Explore my projects in data science and analytics, machine learning, and dashboarding.
+Explore my work in Data Science, machine learning, and analytics.  
+Each project is designed for impact, reproducibility, and production realism.
