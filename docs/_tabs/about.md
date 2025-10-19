@@ -4,4 +4,7 @@ title: About Me
 icon: fas fa-user
 order: 1
 ---
-Postgrad in Operations Research & Computer Applications. Focused on Data Science, ML, reproducible workflows, and real-world impact.
+
+Postgraduate in Operations Research & Computer Applications.  
+Focused on building scalable ML pipelines, reproducible workflows, and impactful dashboards.  
+Currently pursuing advanced machine learning coursework and portfolio development.
