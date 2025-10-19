@@ -2,7 +2,7 @@ title: "Nikhil Sajimon"
 description: "Portfolio of Data Science & Analytics Projects"
 baseurl: "" # for GitHub Pages
 url: "https://nikhilsajimon.github.io"
-theme: chirpy
+remote_theme: cotes2020/jekyll-theme-chirpy
 
 markdown: kramdown
 plugins:
